@@ -1,0 +1,24 @@
+Excel Form:
+    Only 1 cell to be filled "flag" column condition / use check box
+    Include macro to run .py file
+    
+Needs fixing:
+    Not working with only one entry in H - J columns
+    Fine tune word formatting 
+
+Future additions:
+    Formatting for #15 codes (gates)
+    def low_voltage() scope
+    Additional columns for W/E/N, (5 years, other than called out above, etc)
+    Checks for misspellings
+    Adding additional autocorrects.
+        Import from .acl file?
+    Adding plural items (create new items in "raw" list)
+        if qty > 1: info + 'plural'
+
+
+
+
+
+    
+
